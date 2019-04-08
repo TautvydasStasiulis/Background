@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Video Background</title>
+</head>
+<body>
+
+
+
+
+ 		<div class="background-wrap">
+ 			<video id="video-bg-elem" preload="auto" autoplay="true" loop="true" muted="muted">
+ 				<source src="Map-Navigation.mp4" type="video/mp4">
+ 					Video not supported
+ 			</video>
+ 		</div>
+
+<div class="Content">
+	<h1>Video Background pasimėginimas</h1>
+	<p>Gavosi visai neblogai</p>
+	
+
+</div>
+
+</body>
+</html>
